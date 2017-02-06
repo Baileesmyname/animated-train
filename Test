@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<title> Losing it Together </title>
+<style>
+
+p.one {
+    border-style: double;
+    border-color: #FFDFFA;
+}	
+
+h1 {
+    color: #43004D;
+    font-family: cursive;
+    font-size: 300%;
+	
+}
+h1 {text-align: center}
+
+
+</style>
+
+<body style="background-color:White;">
+<div class=“menu”>
+<ul>
+	<li><a href=“index.html”>Home</a></li>
+	<li><a href=“about.html“>About</a></li>
+	<li><a href=“contact.html”>Contact us</a></li>
+</ul>
+
+<p class="one"> </p>
+<h1 style="color:purple;">This is a heading</h1>
+
+
+
+<p>This is a paragraph.</p>
+</font>
+</body> 
+</html>
